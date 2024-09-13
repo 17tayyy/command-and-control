@@ -1,6 +1,6 @@
 ## Usage
 
-These scripts form a simple client-server remote control setup, where `listener.py` acts as the server (listener) and `backdoor.py` acts as the client (backdoor). The listener receives commands and the backdoor executes them on the remote machine.
+This scripts form a simple client-server remote control setup, where `listener.py` acts as the server (listener) and `backdoor.py` acts as the client (backdoor). The listener receives commands and the backdoor executes them on the remote machine.
 
 ### Setup
 
