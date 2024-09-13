@@ -6,7 +6,7 @@ These scripts form a simple client-server remote control setup, where `listener.
 
 1. **Ensure both scripts are on separate machines (or different terminals on the same machine for testing).**
    - The listener should be run on the attacker's machine.
-   - The backdoor should be run on the target machine.
+   - The backdoor should be run on the target machine (you can make backdoor.py an executable file).
 
 2. **Configure IP and Port**
    - Update the IP address and port in both scripts to match the network setup. By default, they are set to `192.168.1.50` and port `443`.
