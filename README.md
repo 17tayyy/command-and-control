@@ -35,7 +35,7 @@ Once connected, the backdoor will:
 
 ### Command Usage
 
-In the `listener.py` session, you can run the following commands:
+In the `listener.py` session, you can run the following commands (i will be adding more in the future):
 
 - **get users**: This command retrieves a list of system users from the target machine and sends it via email to a predefined address.
 
